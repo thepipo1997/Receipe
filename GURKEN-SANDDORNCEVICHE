@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gurken-Sanddorn-Ceviche</title>
+    <style>
+        body {
+            font-family: 'Roboto', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+            line-height: 1.8;
+        }
+        .container {
+            max-width: 900px;
+            margin: 30px auto;
+            padding: 25px;
+            background: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 2.5rem;
+            color: #e63946;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        h2 {
+            font-size: 1.8rem;
+            color: #555;
+            margin-top: 20px;
+            border-bottom: 2px solid #e63946;
+            padding-bottom: 5px;
+        }
+        h3 {
+            font-size: 1.4rem;
+            color: #666;
+            margin-top: 15px;
+        }
+        ul {
+            list-style: none;
+            padding-left: 0;
+        }
+        ul li {
+            margin-bottom: 8px;
+            font-size: 1rem;
+        }
+        .ingredients ul li:before {
+            content: "\2022";
+            color: #e63946;
+            font-weight: bold;
+            display: inline-block;
+            width: 1em;
+            margin-left: -1em;
+        }
+        ol {
+            padding-left: 20px;
+        }
+        ol li {
+            margin-bottom: 12px;
+            font-size: 1rem;
+        }
+        .footer {
+            margin-top: 30px;
+            text-align: center;
+            font-size: 0.9rem;
+            color: #888;
+            border-top: 1px solid #ddd;
+            padding-top: 15px;
+        }
+        .instructions, .ingredients {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Gurken-Sanddorn-Ceviche</h1>
+        <h2>Frisch & Knackig</h2>
+
+        <div class="ingredients">
+            <h2>Ingredients</h2>
+            <h3>Leche de Tigre:</h3>
+            <ul>
+                <li>1 Thai-Chili</li>
+                <li>1 red onion</li>
+                <li>3 garlic cloves</li>
+                <li>50 g ginger</li>
+                <li>1 stalk of lemongrass</li>
+                <li>50 g fresh turmeric or 1/2 tsp turmeric powder</li>
+                <li>125 ml lime juice</li>
+                <li>125 ml sea buckthorn juice</li>
+                <li>1 tsp salt</li>
+            </ul>
+
+            <h3>Ceviche:</h3>
+            <ul>
+                <li>Salt</li>
+                <li>100 g quinoa</li>
+                <li>1 cucumber</li>
+                <li>1/2 red onion</li>
+                <li>1 red chili</li>
+                <li>5 dried apricots</li>
+                <li>1 tbsp olive oil</li>
+                <li>Mint leaves, for garnish</li>
+            </ul>
+        </div>
+
+        <div class="instructions">
+            <h2>Instructions</h2>
+            <ol>
+                <li>For the Leche de Tigre, remove the seeds from the Thai-Chili. Roughly chop the chili, onion, garlic, ginger, lemongrass, and fresh turmeric (if using). Combine with the lime juice and sea buckthorn juice in a blender, blend until smooth, and strain through a sieve. Let rest for at least one hour.</li>
+                <li>For the ceviche, bring a pot of salted water to a boil. Cook the quinoa, reduce the heat, and simmer for about 15 minutes. Drain and set aside.</li>
+                <li>Peel the cucumber, slice it lengthwise, and then chop into small cubes. Dice the red onion, chili, and dried apricots into small pieces.</li>
+                <li>Combine the quinoa, cucumber, onion, chili, and apricots in a bowl. Drizzle with olive oil, season with a pinch of salt, and mix well.</li>
+                <li>Place the ceviche in the center of a plate or bowl, pour the Leche de Tigre around it, and garnish with mint leaves. Serve immediately.</li>
+            </ol>
+        </div>
+
+        <div class="footer">
+            <p>Inspired by fresh and vibrant flavors. Enjoy!</p>
+        </div>
+    </div>
+</body>
+</html>
