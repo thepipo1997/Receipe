@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moroccan Salted Lemons</title>
+    <style>
+        body {
+            font-family: 'Roboto', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+            line-height: 1.8;
+        }
+        .container {
+            max-width: 900px;
+            margin: 30px auto;
+            padding: 25px;
+            background: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 2.5rem;
+            color: #e63946;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        h2 {
+            font-size: 1.8rem;
+            color: #555;
+            margin-top: 20px;
+            border-bottom: 2px solid #e63946;
+            padding-bottom: 5px;
+        }
+        h3 {
+            font-size: 1.4rem;
+            color: #666;
+            margin-top: 15px;
+        }
+        ul {
+            list-style: none;
+            padding-left: 0;
+        }
+        ul li {
+            margin-bottom: 8px;
+            font-size: 1rem;
+        }
+        ol {
+            padding-left: 20px;
+        }
+        ol li {
+            margin-bottom: 12px;
+            font-size: 1rem;
+        }
+        .footer {
+            margin-top: 30px;
+            text-align: center;
+            font-size: 0.9rem;
+            color: #888;
+            border-top: 1px solid #ddd;
+            padding-top: 15px;
+        }
+        .instructions, .ingredients {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Moroccan Salted Lemons</h1>
+
+        <div class="ingredients">
+            <h2>Ingredients</h2>
+            <ul>
+                <li>4 organic lemons</li>
+                <li>4 tablespoons coarse sea salt</li>
+                <li>Juice of 2 lemons</li>
+                <li>Optional spices: bay leaves, cinnamon sticks, or cloves</li>
+                <li>Boiled and sterilized glass jar</li>
+            </ul>
+        </div>
+
+        <div class="instructions">
+            <h2>Instructions</h2>
+            <ol>
+                <li>Wash the lemons thoroughly and cut them lengthwise into quarters, but do not cut all the way through. Keep the lemons intact at the base.</li>
+                <li>Sprinkle 1 tablespoon of coarse sea salt inside each lemon and press them gently back into shape.</li>
+                <li>Place the salted lemons in the sterilized glass jar, layering them tightly. Add additional spices like bay leaves, cinnamon, or cloves between the lemons, if desired.</li>
+                <li>Pour the juice of 2 lemons into the jar and fill the remaining space with boiled, cooled water until the lemons are fully submerged.</li>
+                <li>Seal the jar tightly and store it in a cool, dark place for 4 weeks, shaking the jar gently every few days to distribute the salt.</li>
+                <li>Once the lemons are ready, store them in the refrigerator and use as needed in Moroccan dishes or as a flavorful condiment.</li>
+            </ol>
+        </div>
+
+        <div class="footer">
+            <p>Recipe adapted from GaultMillau. Enjoy your Moroccan culinary journey!</p>
+        </div>
+    </div>
+</body>
+</html>
